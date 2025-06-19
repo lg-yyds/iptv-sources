@@ -1,6 +1,6 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **fanmingming/live domainv6(Invalid)**
 
-> M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
+> M3U: [fmml_dv6.m3u](/fmml_dv6.m3u), TXT: [fmml_dv6.txt](/txt/fmml_dv6.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
